@@ -1,22 +1,20 @@
 h1 {
-    color: blue;
-    text-align: center;
+  color: rgb(51, 134, 88);
+  text-align: center;
 }
 
 .class {
-    font-size: 14pt;
-    color: black;
-    font-weight: bold;
+  font-size: 14pt;
+  color: black;
+  font-weight: bold;
 }
 
-/* Phần quan trọng bạn cần đây */
-.container {
-    border: 5px solid black; /* Độ dày 2px, kiểu nét liền, màu hồng đậm */
-    background-color: pink; /* Màu nền hồng nhạt (MistyRose) */
-    padding: 20px;             /* Tạo khoảng cách giữa nội dung và viền */
-    width: 800px;        /* Khung ôm vừa khít nội dung */
-    margin: 20px auto;         /* Căn giữa cả cái khung trên màn hình */
+.khung {
+  border: 5px solid black;
+  background-color: rgb(57, 103, 118);
+  padding: 20px;
+  margin: 20px auto;
 }
-li{
-    margin-bottom: 10px;
+li {
+  margin-bottom: 10px;
 }

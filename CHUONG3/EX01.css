@@ -1,20 +1,21 @@
-h1{
-    color: red;
-    text-align: center;
+h1 {
+  color: red;
+  text-align: left;
 }
-h2{
-    color: blue;
+h2 {
+  color: blue;
 }
-h3{
-    color: green;
+h3 {
+  color: green;
 }
-h4{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 14pt;
-    font-weight: bold;
+h4 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14pt;
+  font-weight: bold;
 }
-p{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 12pt;
-    font-weight: bold;
+p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12pt;
+  font-weight: bold;
+  background-color: yellow;
 }

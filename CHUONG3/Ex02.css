@@ -1,22 +1,22 @@
-h2{
-    color: red;
-    text-align: center;
-    background-color: rebeccapurple;
-    margin-bottom: 0px;
-    padding: 20px;
+h2 {
+  color: red;
+  text-align: center;
+  background-color: rgb(219, 246, 19);
+  margin-bottom: 0px;
+  padding: 20px;
 }
-p{
-    font-size: 14pt;
-    font-weight: initial;
-    color: white;
-    background-color: blue;
-    margin-top: 0px;
-    margin-bottom: 0px;
+p {
+  font-size: 14pt;
+  font-weight: initial;
+  color: white;
+  background-color: rgb(202, 48, 13);
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
-h4{
-    font-size: 14pt;
-    font-weight: initial;
-    color: yellow;
-    background-color: brown;
-    margin-top: 0px;
+h4 {
+  font-size: 14pt;
+  font-weight: initial;
+  color: black;
+  background-color: red;
+  margin-top: 0px;
 }
